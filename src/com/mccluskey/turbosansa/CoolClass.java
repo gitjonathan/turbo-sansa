@@ -32,7 +32,8 @@ import java.io.InputStreamReader;
 import java.io.UnsupportedEncodingException;
 
 /**
- *
+ * The purpose of this class is to demonstrate the reading of "data.txt"
+ * as a resource stored within the JAR file. 
  * 
  * @author Jonathan McCluskey
  *
