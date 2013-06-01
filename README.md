@@ -1,7 +1,8 @@
 turbo-sansa
 ===========
 
-Example jar file creation with text file, and reading of that file
+Example JAR file creation with text file within it, and reading of that file 
+as a resource from within the JAR file
 
     git clone git://github.com/gitjonathan/turbo-sansa.git
     cd turbo-sansa
